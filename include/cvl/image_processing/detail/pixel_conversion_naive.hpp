@@ -1,0 +1,8 @@
+#ifndef CVL_IMAGE_PROCESSING_DETAIL_PIXEL_CONVERSION_NAIVE_HPP
+#define CVL_IMAGE_PROCESSING_DETAIL_PIXEL_CONVERSION_NAIVE_HPP
+
+namespace cvl::detail {
+
+} // namespace detail
+
+#endif
